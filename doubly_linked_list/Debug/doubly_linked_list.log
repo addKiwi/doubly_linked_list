@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\plaer\documents\visual studio 2017\projects\doubly_linked_list\doubly_linked_list\source.cpp(247): warning C4551: в вызове функции отсутствует список аргументов
+  doubly_linked_list.vcxproj -> c:\users\plaer\documents\visual studio 2017\Projects\doubly_linked_list\Debug\doubly_linked_list.exe
+  doubly_linked_list.vcxproj -> c:\users\plaer\documents\visual studio 2017\Projects\doubly_linked_list\Debug\doubly_linked_list.pdb (Partial PDB)
